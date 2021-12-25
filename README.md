@@ -1,6 +1,7 @@
 # GNN Based Robot Information Dissemination Prediction
 
 This is a research focusing on the analysis of social robot information dissemination based on dynamic network. The architecture of the model is Graph Recurrent Neural Network.
+
 This is also my graduation project of B.Eng degree in Xi'an Jiaotong University. 
 
 ## Description
